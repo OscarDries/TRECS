@@ -1,3 +1,4 @@
 - hoe kun je achterhalen of instrument looktrhough is? met selectiecode [1:1]?
 - import: lines 2048 - 2056 "InflationCurves"
 - import: lines 2080 - 2082 "reportCode.Substring(0, 1) != "1""
+- import: lines 2497 - 2506 "CPIindex = scenarioIndexCPI_List[ccyTranslated]"
